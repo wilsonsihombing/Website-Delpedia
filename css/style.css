@@ -248,7 +248,7 @@ body {
   }
 
   .navbar .navbar-nav {
-    position: absolute;
+    position: absolute; 
     top: 100%;
     right: -100%;
     background-color: #fff;
