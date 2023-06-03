@@ -30,3 +30,6 @@ Anda dapat melakukan kontribusi terhadap template ini dengan mengirimkan *pull r
 ## Lisensi
 
 Template ini dilisensikan di bawah [MIT License](LICENSE).
+
+## Link untuk buka website page
+https://wilsonsihombing.github.io/ProyekAOK/#contact
