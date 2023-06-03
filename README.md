@@ -33,3 +33,4 @@ Template ini dilisensikan di bawah [MIT License](LICENSE).
 
 ## Link untuk buka website page
 https://wilsonsihombing.github.io/ProyekAOK/#contact
+file:///D:/Proyek%20AOK/index.html#about
