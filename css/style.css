@@ -1,5 +1,5 @@
 :root {
-  --primary: #b6895b;
+  --primary: #3a82cf;
   --bg: #010101;
 }
 
@@ -165,7 +165,7 @@ body {
 .about .row {
   display: flex;
 }
-
+ 
 .about .row .about-img {
   flex: 1 1 45rem;
 }
@@ -248,7 +248,7 @@ body {
   }
 
   .navbar .navbar-nav {
-    position: absolute; 
+    position: absolute;
     top: 100%;
     right: -100%;
     background-color: #fff;
