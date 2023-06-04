@@ -5,7 +5,7 @@ const navbarNav = document.querySelector('.navbar-nav');
 document.querySelector('#hamburger-menu').onclick = () => {
   navbarNav.classList.toggle('active');
 }
-
+ 
  
 //Klik di luar sidebar untuk menghilangkan navbar
 const hamburger = document.querySelector ('#hamburger-menu');
