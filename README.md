@@ -1,5 +1,5 @@
 ## Link untuk membuka tampilan website page
-Klik berikut untuk melihat hasil dari tampilan website:
+Klik link berikut untuk melihat hasil dari tampilan website:
 https://wilsonsihombing.github.io/ProyekAOK/#contact
 
 ## Deskription
