@@ -29,7 +29,7 @@ That's it! You can now explore the Delpedia website and browse through the avail
 
 ## Demos
 
-A live demo of the Delpedia website is available at https://wilsonsihombing.github.io/ProyekAOK/#contact
+A live demo of the Delpedia website is available at https://wilsonsihombing.github.io/Website-Delpedia/
 
 ## Contributing
 
