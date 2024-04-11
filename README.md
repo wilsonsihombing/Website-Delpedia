@@ -1,6 +1,6 @@
 **Delpedia - Campus Marketplace Website**
 
-##Introduction
+## Introduction
 
 Welcome to Delpedia! Delpedia is a simple campus marketplace website designed to facilitate buying and selling goods within the campus community. This repository contains the frontend files and resources for the Delpedia website.
 
